@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/ezlen/AndroidStudioProjects/Mr.Stormy2/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="/home/ezlen/AndroidStudioProjects/Mr.Stormy2/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.3.0_c64df33ea773e0ea0914decdb7b3ac16c4a1f082.jar" />
+    </item>
+    <item
+        jar="/home/ezlen/AndroidStudioProjects/Mr.Stormy2/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/home/ezlen/AndroidStudioProjects/Mr.Stormy2/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.3.0_4a19ede6a9b91576a9c80c666acf2bc07f6c2239.jar" />
+    </item>
+    <item
+        jar="/home/ezlen/AndroidStudioProjects/Mr.Stormy2/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/home/ezlen/AndroidStudioProjects/Mr.Stormy2/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.3.0_f9bae5ae4d8e16edb4856161d3b62bbb38b78460.jar" />
+    </item>
+    <item
+        jar="/home/ezlen/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/home/ezlen/AndroidStudioProjects/Mr.Stormy2/app/build/intermediates/pre-dexed/debug/support-annotations-23.3.0_c4fa8caec2bfd073b97a969d7ef1465752341526.jar" />
+    </item>
+    <item
+        jar="/home/ezlen/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/home/ezlen/AndroidStudioProjects/Mr.Stormy2/app/build/intermediates/pre-dexed/debug/okio-1.6.0_9beb5b6262cbf894ee1d0f3026cc813319643818.jar" />
+    </item>
+    <item
+        jar="/home/ezlen/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/7.0.1/d5d13ea991eab0252e3710e5df3d6a9d4b21d461/butterknife-7.0.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="/home/ezlen/AndroidStudioProjects/Mr.Stormy2/app/build/intermediates/pre-dexed/debug/butterknife-7.0.1_0136ed0e1140e154b7aced51363d12308c7cbab8.jar" />
+    </item>
+    <item
+        jar="/home/ezlen/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="/home/ezlen/AndroidStudioProjects/Mr.Stormy2/app/build/intermediates/pre-dexed/debug/okhttp-3.2.0_23c4b655eef0cbdf5bf46ce34d15df57aa4f551a.jar" />
+    </item>
+    <item
+        jar="/home/ezlen/AndroidStudioProjects/Mr.Stormy2/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/home/ezlen/AndroidStudioProjects/Mr.Stormy2/app/build/intermediates/pre-dexed/debug/internal_impl-23.3.0_bf8bdba5fc7a3d558ad0a659acaed03f5797f6e4.jar" />
+    </item>
+    <item
+        jar="/home/ezlen/AndroidStudioProjects/Mr.Stormy2/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/home/ezlen/AndroidStudioProjects/Mr.Stormy2/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.3.0_8cb26c17c62ba791fdeafcdb95fcf965a9fae801.jar" />
+    </item>
+    <item
+        jar="/home/ezlen/AndroidStudioProjects/Mr.Stormy2/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="/home/ezlen/AndroidStudioProjects/Mr.Stormy2/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.3.0_45b8d906e1bbef4eeec8489b946270053970bbb5.jar" />
+    </item>
+    <item
+        jar="/home/ezlen/AndroidStudioProjects/Mr.Stormy2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/home/ezlen/AndroidStudioProjects/Mr.Stormy2/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.3.0_eefd7af4d45bf40d5b1ad3d86d60a1cd7b2bf972.jar" />
+    </item>
+
+</items>
