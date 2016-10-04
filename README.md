@@ -10,4 +10,4 @@ It is based in the "Stormy" weather app, developed in tutorials by [Treehouse In
 
 
 ## Official Documentation
-Documentation for Android app development can be found on the [Android Developers website](https://developer.android.com/guide/index.html).
+Documentation for Android app development can be found on the [Android Developers Website](https://developer.android.com/guide/index.html).
